@@ -7,3 +7,5 @@ This project is capable of
 - Search a product by giving it's name
 - View the detailes of searched/selected product
 
+This repository included the frontend source code of the application.
+
